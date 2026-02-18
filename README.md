@@ -91,4 +91,5 @@ section {
 
 ## Pantallazos CSS Diner
 
-![CSS Diner nivel 32](img/css-diner-32.png)
+!![CSS Diner nivel 32](img/imgcss-diner-32.png)
+
