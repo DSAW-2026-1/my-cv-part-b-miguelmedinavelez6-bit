@@ -92,7 +92,7 @@ section {
 ## Pantallazos CSS Diner
 
 !![CSS Diner nivel 32](img/imgcss-diner-32.png)
-!![Flexbox Froggy](img/img/Flexbox.png)
+!![Flexbox Froggy](img/Flexbox.png)
 !![Grid Garden](img/Grid.png)
 
 
